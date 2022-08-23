@@ -30,4 +30,4 @@ GRANT ALL ON test.* TO 'ubuntu'@'localhost';
 
 ##Gitへの認証
 
-git remote set-url origin https://github.com/hakamad73/pub.git/
+git remote set-url origin https://hakamad73/:ACCESS_TOKEN/hakamad73/pub.git/
